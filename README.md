@@ -1,4 +1,4 @@
-# Final-Project-Picking
+# Final-Project
 import java.util.Scanner;
 
 public class Picking {
